@@ -13,6 +13,7 @@
 //
 // TODO:
 // Fix camera drag at very low zoom levels (might not be possible).
+// Add ability to output current view as image.
 // Add DearImGui UIs for viewing/entering values.
 // Do rendering optimisation pass.
 // Add more descriptive comments?

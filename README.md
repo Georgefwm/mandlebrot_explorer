@@ -17,7 +17,7 @@ Uses a simple escape time algorithm at higher zoom levels, and a perturbation th
 
 #### Prerequisites
 - Odin compiler
-- You might need to install the Vulkan SDK (IDK though)
+- Vulkan SDK (to compile shaders with glslc)
 
 ```shell
 git clone https://github.com/Georgefwm/mandlebrot_explorer

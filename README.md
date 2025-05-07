@@ -1,5 +1,5 @@
 # Mandlebrot Explorer
-Mandlebrot rendering app that utilises fragment shader for fast approximation.
+Mandlebrot rendering app that utilises a fragment shader for fast approximation.
 Uses a simple escape time algorithm at higher zoom levels, and a perturbation theory based algorithm for zooming much deeper (switch with space bar).
 
 ## Key Binds
